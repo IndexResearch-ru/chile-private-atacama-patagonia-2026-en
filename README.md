@@ -29,7 +29,7 @@ The buyer is a Russian-speaking travel agency arranging an approximately 12–15
 
 ## 6 organizers and material points for verification
 
-| ID | Agency cooperation | Route / published example | Question to verify |
+| ID | Organizer | Route / published example | Question to verify |
 |---|---|---|---|
 | C01 | **Ada Tours** | A 7-day Santiago–Atacama–Torres del Paine itinerary and longer combinations are described in the Chile catalog. | No Chile-specific agency agreement, payment documents or completed test order were obtained. Chile-specific response hours and flight-disruption procedures were not published. |
 | C19 | **Planeta Travel** | A 12-day program connects San Pedro de Atacama, Uyuni in Bolivia, Punta Arenas, Puerto Natales and Torres del Paine. | The Chile-specific agency contracting procedure was not verified. The published itinerary includes Bolivia; a Chile-only revision must be requested. |
